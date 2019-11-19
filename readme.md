@@ -1,10 +1,12 @@
-<h2> I created this project during training on the front end course on [gromcode](https://gromcode.com/) </h2>
+<h2>Description:</h2>
 
-The project itself is on the link <https://eposha.github.io/pages/>
-***
-This project was written using the sass preprocessor, namely scss.
-Also html markup was written using the BEM methodology. And with the principles of DRY and KISS
-***
-Home page adapted for mobile and desktop screens.
-Stories page is only for desktop
+This is landing page layout - Name here Supports desktop, tablet and mobile versions
+
+<h2>Pages implemented:</h2>
+https://eposha.github.io/pages/
+https://eposha.github.io/pages/stories.html (only desktop version)
+
+<h2>Tech stack:</h2>
+HTML5, CSS3, SASS <br>
+BEM methodology
 
