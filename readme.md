@@ -1,12 +1,19 @@
 <h2>Description:</h2>
 
-This is landing page layout - Foundation Supports desktop, tablet and mobile versions
+This is landing page layout - Foundation
+Supports: desktop version (up to 1440px)
+          mobile versions (down to 1399px)
 
 <h2>Pages implemented:</h2>
+[Main page](https://eposha.github.io/pages/)
+[Stories page](https://eposha.github.io/pages/stories.html)
 https://eposha.github.io/pages/
 https://eposha.github.io/pages/stories.html (only desktop version)
 
 <h2>Tech stack:</h2>
-HTML5, CSS3, SASS <br>
-BEM methodology
+* HTML
+* CSS3
+* SCSS
+* BEM methodology
+
 
