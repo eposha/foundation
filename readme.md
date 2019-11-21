@@ -7,9 +7,9 @@ Supports: desktop version (up to 1440px)
 
 <h2>Pages implemented:</h2>
 
-> [Main page](https://eposha.github.io/pages/)
+> [Main page](https://eposha.github.io/foundation/)
 
-> [Stories page](https://eposha.github.io/pages/) only desktop version
+> [Stories page](https://eposha.github.io/foundation/stories-page/stories.html) only desktop version
 >
 <h2>Tech stack:</h2>
 
